@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ADF-wafa-Demo"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
