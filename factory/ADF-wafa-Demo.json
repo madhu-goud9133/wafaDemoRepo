@@ -1,0 +1,9 @@
+{
+	"name": "ADF-wafa-Demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a986676c-6bc8-4d15-9779-96562b5d3ba4",
+		"tenantId": "b7902e55-31b2-4d3a-aaba-84918104e6f9"
+	}
+}
